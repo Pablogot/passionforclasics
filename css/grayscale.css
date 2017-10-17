@@ -47,7 +47,7 @@ a {
 a:hover,
 a:focus {
 	text-decoration: none;
-	color: #1d9b6c;
+	color: #a72b2b;
 }
 .light {
 	font-weight: 400;
@@ -303,6 +303,12 @@ ul.banner-social-buttons {
 	ul.banner-social-buttons {
 		margin-top: 15px;
 	}
+	#tony{
+		padding-top: 150px;
+	}
+	#tony img{
+		/*padding-bottom: 40px;*/
+	}
 }
 @media (max-width: 767px) {
 	ul.banner-social-buttons li {
@@ -344,20 +350,19 @@ img::-moz-selection {
 body {
 	webkit-tap-highlight-color: rgba(255, 255, 255, 0.2);
 }
-#slider{
+#gallery{
 	background:#141514;
 	padding-top:80px;
 	padding-bottom:80px;
 	margin-top:150px;
 }
-.tony{
+#tony{
 	margin-top: 150px;
-	text-align: left;
 }
-.tony hr{
+#tony hr{
 	padding-bottom: 50px;
 }
-.tony img{
+#tony img{
 	max-width: 300px;
 	border-radius: 150px;
 	padding: 20px;
