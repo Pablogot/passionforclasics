@@ -366,3 +366,17 @@ body {
 	 -webkit-border-radius: 150px;
 	padding: 20px;
 }
+.social a i{
+	color:#000000;
+	background-color: #f7f7f7;
+	font-size: 20px;
+	padding: 12px 15px 12px 15px;
+	border-radius: 22.5px;
+	width: 45px;
+	height: 45px;
+	margin: 0 10px;
+}
+.social a:hover i{
+	background-color: #d1d1d1;
+
+}
